@@ -250,8 +250,10 @@
     clear: both;
     font-size: 10px;
     margin: 3em 0;
+    display: none;
 }
 
 .mentoring .copyright a {
     color: #69C0E8;
+    display: none;
 }
